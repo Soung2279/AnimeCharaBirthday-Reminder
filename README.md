@@ -47,4 +47,4 @@ A:目前脚本只会运行一次。如果你是本地部署，请将脚本添加
 
 #### 其他
 
-MIT许可。此项目也在Github上可用。[Soung@Github](https://github.com/Soung2279)
+MIT许可。此项目也在Gitee上可用。[Soung@Github](https://gitee.com/soung2279)
